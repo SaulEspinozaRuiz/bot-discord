@@ -34,7 +34,6 @@
 		"@distube/ytdl-core": "^4.11.9",
 		"axios": "^1.3.6",
 		"colors": "^1.4.0",
-		"devtools-ts": "^1.1.3",
 		"discord.js": "^14.9.0",
 		"distube": "^4.0.4",
 		"dotenv": "^16.0.3",

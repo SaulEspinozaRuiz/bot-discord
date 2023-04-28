@@ -11,8 +11,6 @@ const client = new Client({ intents: [131071] });
 client.config = require("./settings/config.js");
 client.commands = new Collection();
 client.voiceGenerator = new Collection();
-client.apis = new APIs();
-client.utils = new StringUtils();
 
 module.exports = client;
 
